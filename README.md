@@ -14,10 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# I am a Fullstack software Developer 
+#### I am a Fullstack Web Developer 
 - 🔭 Currently working on React and Nodejs Projects
 
-# Connect With Me
-
-# Expertise 
 
