@@ -3,6 +3,6 @@
   ______________________________________________
   </p>
   <p align="center">
-  <b>Fullstack web developer especialized on React and Nodejs Projects</b>
+  <b>Fullstack web developer especialized on React and Nodejs Technologies</b>
 </p>
 
